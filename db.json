@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "title": "Javascript",
+      "author": "Baker",
+      "body": "Learning Javascript is an essential skill to have in the industry today",
+      "id": 2
+    },
+    {
+      "title": "NodeJS",
+      "author": "Baker",
+      "body": "Learning NodeJS is an essential skill to have in the industry today",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
